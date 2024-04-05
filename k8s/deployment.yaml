@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: webcolor
-        image: govoni/web-color:green
+        image: govoni/web-color:blue
         ports:
         - containerPort: 80
 ---
